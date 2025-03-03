@@ -1,6 +1,6 @@
 # npm-workspaces
 
-This is a simple project that introduces Npm Workspaces
+This is a simple project that introduces Npm Workspaces that convert date and time whithout an existing node lib, creating by my own
 
 ## What is NPM Workspaces?
 
